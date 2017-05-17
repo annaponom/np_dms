@@ -1,0 +1,3 @@
+FASTQ_files/
+*.pyc
+*.gz
